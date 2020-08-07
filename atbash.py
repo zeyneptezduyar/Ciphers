@@ -1,4 +1,4 @@
-cipherText = input("Enter Cipher Text: ")
+cipherText = input("Enter Atbash Cipher Text: ")
 cipherText = cipherText.upper()
 plainText = ""
 for char in cipherText:
